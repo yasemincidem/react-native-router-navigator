@@ -1,0 +1,1 @@
+export const PUSH_ROUTE_SUCCESS = "PUSH_ROUTE_SUCCESS";
